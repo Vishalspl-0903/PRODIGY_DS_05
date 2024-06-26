@@ -19,8 +19,11 @@ Installation:
 To run this project, you need to have Python installed along with the following packages:
 
 pandas
+
 matplotlib
+
 seaborn
+
 folium
 
 You can install the required packages using pip:
